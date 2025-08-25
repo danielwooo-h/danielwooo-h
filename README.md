@@ -1,6 +1,16 @@
 ## 🧑‍💻 Daniel Woo
 **`Systems Analysis and Development Student | Focused on Back-End Development with Java | Aspiring Software Engineer`**
 
+<a href="https://www.linkedin.com/in/daniel-woo-193656239/">
+  <img
+    width="32px"
+    alt="LinkedIn"
+    title="LinkedIn"
+    src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+  />
+</a>
+
+
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, com foco em Java e desenvolvimento back-end. Tenho me dedicado a aprofundar meus conhecimentos técnicos, estudando boas práticas de programação, orientação a objetos, estruturas de dados e frameworks como Spring. Também venho explorando conceitos de arquitetura de sistemas e integração com APIs, com o objetivo de construir soluções eficientes, escaláveis e bem estruturadas. Meu foco inicial é consolidar uma base sólida como desenvolvedor back-end e, em seguida, expandir minhas habilidades para atuar como desenvolvedor full stack. Paralelamente, estou investindo no aprendizado contínuo do inglês, reconhecendo sua importância para acessar conteúdos técnicos atualizados e colaborar em projetos internacionais. Este espaço no GitHub reflete minha jornada de aprendizado e prática na área de desenvolvimento de software.
 
 Pretendo utilizar meu canal no YouTube, "[Daniel Woo]("https://youtube.com/@danielwoo78?si=i2S6SRo1Y3T91gCD"), como uma forma de compartilhar conhecimento e auxiliar outras pessoas em suas jornadas de aprendizado. Mais adiante, quero transformar esse espaço em um canal ativo de troca e prática, contribuindo com a comunidade e reforçando minha própria evolução como desenvolvedor.
