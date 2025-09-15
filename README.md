@@ -17,7 +17,7 @@ Pretendo utilizar meu canal no YouTube, como uma forma de compartilhar conhecime
 
 
 <p align="left">
-    <a href="https://youtube.com/@danielwoo78?si=i2S6SRo1Y3T91gCD">
+    <a href="https://youtube.com/@devnapratica-l2z?si=_ZQWCdsJ7IyN5FkG">
         <img 
             alt="Inscritos" 
             title="Inscreva-se" 
