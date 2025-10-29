@@ -10,11 +10,13 @@
   />
 </a>
 
+Atualmente, atuo como Consultor de Risco Júnior, função na qual tenho ampliado meus conhecimentos em gestão de dados, análise de risco e monitoramento de transações. Paralelamente, estou cursando Análise e Desenvolvimento de Sistemas, com foco em Java, estruturas de dados e Spring Boot.
 
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas, com foco em Java e desenvolvimento back-end. Tenho me dedicado a aprofundar meus conhecimentos técnicos, estudando boas práticas de programação, orientação a objetos, estruturas de dados e frameworks como Spring. Também venho explorando conceitos de arquitetura de sistemas e integração com APIs, com o objetivo de construir soluções eficientes, escaláveis e bem estruturadas. Meu foco inicial é consolidar uma base sólida como desenvolvedor back-end e, em seguida, expandir minhas habilidades para atuar como desenvolvedor full stack. Paralelamente, estou investindo no aprendizado contínuo do inglês, reconhecendo sua importância para acessar conteúdos técnicos atualizados e colaborar em projetos internacionais. Este espaço no GitHub reflete minha jornada de aprendizado e prática na área de desenvolvimento de software.
+Meu objetivo no momento é conquistar uma oportunidade que me permita continuar aprendendo e evoluir como desenvolvedor back-end. Após consolidar meus conhecimentos em Java, pretendo me aprofundar em Kotlin.
 
-Pretendo utilizar meu canal no YouTube, como uma forma de compartilhar conhecimento e auxiliar outras pessoas em suas jornadas de aprendizado. Mais adiante, quero transformar esse espaço em um canal ativo de troca e prática, contribuindo com a comunidade e reforçando minha própria evolução como desenvolvedor.
+Além disso, tenho me dedicado ao aprendizado de inglês, pois reconheço a importância do idioma tanto no mundo da programação quanto para o meu desenvolvimento pessoal e profissional.
 
+Neste espaço do GitHub, vou compartilhar meus códigos, projetos e aprendizados. Em um futuro próximo, também começarei a postar vídeos no YouTube, trazendo tutoriais, dicas de programação e conteúdos sobre tecnologia e desenvolvimento. Fique à vontade para acompanhar, comentar e crescer junto comigo nessa jornada!
 
 <p align="left">
     <a href="https://youtube.com/@devnapratica-l2z?si=_ZQWCdsJ7IyN5FkG">
