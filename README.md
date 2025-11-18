@@ -12,7 +12,7 @@
 
 ---
 
-Atualmente, atuo como **Consultor de Risco Júnior**, função na qual tenho desenvolvido habilidades em análise de informações, interpretação de dados e monitoramento de padrões e transações — uma base que fortalece minha transição para a área de **Análise de Dados**.
+Atualmente, atuo como **Consultor de Risco Júnior**, função na qual tenho desenvolvido habilidades em análise de informações, interpretação de dados e monitoramento de padrões e transações uma base que fortalece minha transição para a área de **Análise de Dados**.
 
 Paralelamente, curso **Análise e Desenvolvimento de Sistemas**, onde estudo lógica, banco de dados, SQL e Python, competências essenciais para trabalhar com dados de forma estruturada e analítica.
 
