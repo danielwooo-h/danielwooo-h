@@ -10,13 +10,21 @@
   />
 </a>
 
-Atualmente, atuo como Consultor de Risco Júnior, função na qual tenho ampliado meus conhecimentos em gestão de dados, análise de risco e monitoramento de transações. Paralelamente, estou cursando Análise e Desenvolvimento de Sistemas, com foco em Java, estruturas de dados e Spring Boot.
+Claro, Daniel — deixei sua descrição **profissional, clara e alinhada 100% com a área de Dados**, mantendo sua história, mas ajustando para a nova direção.
+Aqui vai:
 
-Meu objetivo no momento é conquistar uma oportunidade que me permita continuar aprendendo e evoluir como desenvolvedor back-end. Após consolidar meus conhecimentos em Java, pretendo me aprofundar em Kotlin.
+---
 
-Além disso, tenho me dedicado ao aprendizado de inglês, pois reconheço a importância do idioma tanto no mundo da programação quanto para o meu desenvolvimento pessoal e profissional.
+Atualmente, atuo como **Consultor de Risco Júnior**, função na qual tenho desenvolvido habilidades em análise de informações, interpretação de dados e monitoramento de padrões e transações — uma base que fortalece minha transição para a área de **Análise de Dados**.
 
-Neste espaço do GitHub, vou compartilhar meus códigos, projetos e aprendizados. Em um futuro próximo, também começarei a postar vídeos no YouTube, trazendo tutoriais, dicas de programação e conteúdos sobre tecnologia e desenvolvimento. Fique à vontade para acompanhar, comentar e crescer junto comigo nessa jornada!
+Paralelamente, curso **Análise e Desenvolvimento de Sistemas**, onde estudo lógica, banco de dados, SQL e Python, competências essenciais para trabalhar com dados de forma estruturada e analítica.
+
+Meu objetivo é conquistar uma oportunidade como **Analista de Dados**, aplicando técnicas de coleta, organização, limpeza e visualização para transformar dados em insights que apoiem decisões estratégicas.
+
+Além disso, estou me dedicando ao estudo de **inglês**, reconhecendo sua importância para minha evolução profissional e para atuar em ambientes cada vez mais globais na área de dados.
+
+---
+
 
 <p align="left">
     <a href="https://youtube.com/@devnapratica-l2z?si=_ZQWCdsJ7IyN5FkG">
@@ -40,12 +48,7 @@ Neste espaço do GitHub, vou compartilhar meus códigos, projetos e aprendizados
 ### 🤖 Linguagens e Tecnologias 
 
 <img 
-  align="left"
-  alt="Java"
-  title="Java"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+
 />
 />
 />
