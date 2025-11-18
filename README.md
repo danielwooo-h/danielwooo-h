@@ -10,9 +10,6 @@
   />
 </a>
 
-Claro, Daniel — deixei sua descrição **profissional, clara e alinhada 100% com a área de Dados**, mantendo sua história, mas ajustando para a nova direção.
-Aqui vai:
-
 ---
 
 Atualmente, atuo como **Consultor de Risco Júnior**, função na qual tenho desenvolvido habilidades em análise de informações, interpretação de dados e monitoramento de padrões e transações — uma base que fortalece minha transição para a área de **Análise de Dados**.
