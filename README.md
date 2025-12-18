@@ -10,15 +10,11 @@
   />
 </a>
 
----
+Atualmente trabalho como Consultor de Risco Júnior, onde desenvolvo habilidades em análise de informações, interpretação de dados e monitoramento de padrões e transações. Ao mesmo tempo, curso Análise e Desenvolvimento de Sistemas.
 
-Atualmente, atuo como **Consultor de Risco Júnior**, função na qual tenho desenvolvido habilidades em análise de informações, interpretação de dados e monitoramento de padrões e transações uma base que fortalece minha transição para a área de **Análise de Dados**.
+Tenho como objetivo aprofundar meus conhecimentos em Java, Spring Boot, SQL, APIs REST e Kotlin, tecnologias nas quais venho estudando e me dedicando constantemente. Busco uma oportunidade como Estagiário ou Desenvolvedor Back-End Júnior para aprender na prática, consolidar esses conhecimentos e evoluir profissionalmente na área de desenvolvimento.
 
-Paralelamente, curso **Análise e Desenvolvimento de Sistemas**, onde estudo lógica, banco de dados, SQL e Python, competências essenciais para trabalhar com dados de forma estruturada e analítica.
-
-Meu objetivo é conquistar uma oportunidade como **Analista de Dados**, aplicando técnicas de coleta, organização, limpeza e visualização para transformar dados em insights que apoiem decisões estratégicas.
-
-Além disso, estou me dedicando ao estudo de **inglês**, reconhecendo sua importância para minha evolução profissional e para atuar em ambientes cada vez mais globais na área de dados.
+Paralelamente, venho me dedicando ao aprendizado de inglês, sabendo da importância que ele tem tanto para o mercado quanto para meu crescimento pessoal.
 
 ---
 
