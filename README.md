@@ -1,5 +1,5 @@
 ## 🧑‍💻 Daniel Woo
-**`Systems Analysis and Development Student | Focused on Back-End Development with Java | Aspiring Software Engineer`**
+**`Systems Analysis and Development Student | Aspiring Software Engineer | Junior Risk Consultant`**
 
 <a href="https://www.linkedin.com/in/daniel-woo-193656239/">
   <img
@@ -10,11 +10,13 @@
   />
 </a>
 
-Atualmente trabalho como Consultor de Risco Júnior, onde desenvolvo habilidades em análise de informações, interpretação de dados e monitoramento de padrões e transações. Ao mesmo tempo, curso Análise e Desenvolvimento de Sistemas.
+Atualmente atuo como Consultor de Risco Júnior, desenvolvendo habilidades em análise de informações, interpretação de dados e monitoramento de padrões e transações.
 
-Tenho como objetivo aprofundar meus conhecimentos em Java, Spring Boot, SQL, APIs REST e Kotlin, tecnologias nas quais venho estudando e me dedicando constantemente. Busco uma oportunidade como Estagiário ou Desenvolvedor Back-End Júnior para aprender na prática, consolidar esses conhecimentos e evoluir profissionalmente na área de desenvolvimento.
+Paralelamente, curso Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos em programação, banco de dados e arquitetura de software.
 
-Paralelamente, venho me dedicando ao aprendizado de inglês, sabendo da importância que ele tem tanto para o mercado quanto para meu crescimento pessoal.
+Meu foco é me desenvolver como Engenheiro de Software e, futuramente, atuar como Engenheiro de IA, unindo engenharia e inteligência artificial para criar soluções de alto impacto.
+
+Busco uma oportunidade de estágio ou posição júnior para ganhar experiência prática, desenvolver minhas habilidades e crescer na área de tecnologia.
 
 ---
 
