@@ -10,9 +10,7 @@
   />
 </a>
 
-Atualmente atuo como Consultor de Risco Júnior, desenvolvendo habilidades em análise de informações, interpretação de dados e monitoramento de padrões e transações.
-
-Paralelamente, curso Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos em programação, banco de dados e arquitetura de software.
+Curso Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos em programação, banco de dados e arquitetura de software.
 
 Meu foco é me desenvolver como Engenheiro de Software e, futuramente, atuar como Engenheiro de IA, unindo engenharia e inteligência artificial para criar soluções de alto impacto.
 
